@@ -121,14 +121,24 @@
             "plan_number": 397,
             "description": "6wtefl",
             "requirements": [{
-                "type": 92,
+                "type": "ok",
+                "content": "75l2uu3"
+            },{
+                "type": "warning",
+                "content": "75lu21312u3"
+            },{
+                "type": "no",
+                "content": "75l123uu3"
+            },{
+                "type": "ok",
                 "content": "75luu3"
             }],
             "tags": [
                 "jutfrj"
             ],
             "questions": [
-                "5dby5e"
+                "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti cum quibusdam voluptatum. Laboriosam consectetur nam sed facilis mollitia amet dignissimos officiis eum. Pariatur itaque fuga mollitia architecto assumenda veritatis facilis!",
+                "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam ipsa est harum sit vel. Ipsum aspernatur dignissimos temporibus voluptatibus quidem."
             ],
             "other_information": "emxj6d",
             "required_property": 960,

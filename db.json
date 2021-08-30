@@ -1,11 +1,11 @@
 {
-    "posts": [{
+    "posts": {
         "code": "00000",
         "message": "请求成功",
         "debug": "dsb6ge",
         "data": [{
             "id": 896,
-            "name": "伟诚.胡",
+            "name": "小强车间前端组",
             "department": {
                 "id": 535,
                 "name": "伟诚.胡",
@@ -21,7 +21,82 @@
             "tags": [
                 "0mncw5"
             ],
-            "approval_status": 438,
+            "approval_status": 1,
+            "release_time": "2021-04-18 01:09:03",
+            "deadline": "2021-04-18 01:09:03",
+            "like_number": 975,
+            "like_status": true,
+            "favorite_number": 123,
+            "favorite_status": true
+        }, {
+            "id": 4321,
+            "name": "小强车间后台组",
+            "department": {
+                "id": 535,
+                "name": "伟诚.胡",
+                "logo": "byv14l"
+            },
+            "root_department": {
+                "id": 535,
+                "name": "伟诚.胡",
+                "logo": "byv14l"
+            },
+            "plan_number": 8726,
+            "description": "0xk7xy",
+            "tags": [
+                "0mncw5"
+            ],
+            "approval_status": 1,
+            "release_time": "2021-04-18 01:09:03",
+            "deadline": "2021-04-18 01:09:03",
+            "like_number": 975,
+            "like_status": true,
+            "favorite_number": 123,
+            "favorite_status": true
+        }, {
+            "id": 89236,
+            "name": "小强车间产品组",
+            "department": {
+                "id": 535,
+                "name": "伟诚.胡",
+                "logo": "byv14l"
+            },
+            "root_department": {
+                "id": 535,
+                "name": "伟诚.胡",
+                "logo": "byv14l"
+            },
+            "plan_number": 1876,
+            "description": "0xk7xy",
+            "tags": [
+                "0mncw5"
+            ],
+            "approval_status": 1,
+            "release_time": "2021-04-18 01:09:03",
+            "deadline": "2021-04-18 01:09:03",
+            "like_number": 975,
+            "like_status": true,
+            "favorite_number": 123,
+            "favorite_status": true
+        },{
+            "id": 8236,
+            "name": "小强车间UI组",
+            "department": {
+                "id": 535,
+                "name": "伟诚.胡",
+                "logo": "byv14l"
+            },
+            "root_department": {
+                "id": 535,
+                "name": "伟诚.胡",
+                "logo": "byv14l"
+            },
+            "plan_number": 1876,
+            "description": "0xk7xy",
+            "tags": [
+                "0mncw5"
+            ],
+            "approval_status": 0,
             "release_time": "2021-04-18 01:09:03",
             "deadline": "2021-04-18 01:09:03",
             "like_number": 975,
@@ -29,7 +104,7 @@
             "favorite_number": 123,
             "favorite_status": true
         }]
-    }],
+    },
     "profile": {
         "name": "typicode"
     }

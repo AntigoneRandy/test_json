@@ -78,7 +78,7 @@
             "like_status": true,
             "favorite_number": 123,
             "favorite_status": true
-        },{
+        }, {
             "id": 8236,
             "name": "小强车间UI组",
             "department": {
@@ -105,7 +105,47 @@
             "favorite_status": true
         }]
     },
-    "profile": {
-        "name": "typicode"
+    "posts/896": {
+        "code": "00000",
+        "message": "请求成功",
+        "debug": "g2wz7h",
+        "data": {
+            "id": 379,
+            "name": "伟诚.胡",
+            "department": {
+                "id": 452,
+                "name": "伟诚.胡",
+                "description": "iiinpg",
+                "logo": "upy1jd"
+            },
+            "plan_number": 397,
+            "description": "6wtefl",
+            "requirements": [{
+                "type": 92,
+                "content": "75luu3"
+            }],
+            "tags": [
+                "jutfrj"
+            ],
+            "questions": [
+                "5dby5e"
+            ],
+            "other_information": "emxj6d",
+            "required_property": 960,
+            "approval_status": 740,
+            "release_time": "2021-04-18 01:09:03",
+            "deadline": "2021-04-18 01:09:03",
+            "like_number": 189,
+            "like_status": true,
+            "favorite_number": 216,
+            "favorite_status": true,
+            "submitted": true,
+            "root_department": {
+                "id": 452,
+                "name": "伟诚.胡",
+                "description": "iiinpg",
+                "logo": "upy1jd"
+            },
+        }
     }
 }
